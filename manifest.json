@@ -1,6 +1,6 @@
 {
-    "name": "class0510",
-    "short_name": "class0510",
+    "name": "weatherapp",
+    "short_name": "weatherapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
