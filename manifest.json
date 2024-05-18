@@ -1,6 +1,6 @@
 {
-    "name": "weatherapp",
-    "short_name": "weatherapp",
+    "name": "droneudp",
+    "short_name": "droneudp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
